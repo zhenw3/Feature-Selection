@@ -1,7 +1,7 @@
 # Feature-Selection
 ## General Purpose
 Quantify Dependency of Features (X) and Target (Y). Primarily used for classification problems (with Discrete Y). May be extend to regression problems (Continuous Y).
-May be used for: 1) Univariate feature selection; 2) Visualize Top informative features given a feature list.
+//May be used for: 1) Univariate feature selection; 2) Visualize dependency between Y and Top informative features.
 
 
 ## Commonly Used Feature selection Methods: 
